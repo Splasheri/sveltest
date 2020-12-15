@@ -1,0 +1,15 @@
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.csprojAssemblyReference.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.AssemblyInfo.cs
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\BaseLibrary.deps.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\BaseLibrary.runtimeconfig.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\BaseLibrary.runtimeconfig.dev.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\BaseLibrary.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\BaseLibrary.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\WordsDB.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\bin\Debug\netcoreapp3.1\WordsDB.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.csproj.CopyComplete
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\InterfacesLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.genruntimeconfig.cache

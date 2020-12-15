@@ -1,0 +1,12 @@
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\WordsDB.deps.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\WordsDB.runtimeconfig.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\WordsDB.runtimeconfig.dev.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\WordsDB.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\WordsDB.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.csprojAssemblyReference.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.AssemblyInfoInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.AssemblyInfo.cs
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.csproj.CoreCompileInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\WordsDB.genruntimeconfig.cache

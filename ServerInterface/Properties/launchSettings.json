@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServerProject": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Hikaru\\Desktop\\Projects\\WorkTest\\TestProject\\ConsoleInterface\\TestDatabase.db 666"
+    }
+  }
+}

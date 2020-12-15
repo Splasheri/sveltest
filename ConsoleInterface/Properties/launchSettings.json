@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleProject": {
+      "commandName": "Project",
+      "commandLineArgs": "create-dict C:\\Users\\Hikaru\\Desktop\\lovecraft.txt"
+    }
+  }
+}

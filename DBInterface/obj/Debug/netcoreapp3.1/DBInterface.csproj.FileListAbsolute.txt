@@ -1,0 +1,13 @@
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\TestDatabase.db
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.deps.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.runtimeconfig.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.runtimeconfig.dev.json
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.AssemblyInfoInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.AssemblyInfo.cs
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.dll
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.pdb
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.genruntimeconfig.cache
+C:\Users\Hikaru\Desktop\Projects\WorkTest\TestProject\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.csprojAssemblyReference.cache
